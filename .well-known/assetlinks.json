@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.morsy515a.newchem",
+      "sha256_cert_fingerprints": [
+        "4C:D3:9B:B9:23:DD:10:09:1F:87:3A:97:52:FB:F1:B1:A8:7F:99:2A:55:E0:C9:1D:90:8C:7F:3C:A8:7F:0C:29"
+      ]
+    }
+  }
+]
